@@ -1,0 +1,5 @@
+apollo_server/node_modules/ 
+react-native-apollo-client/node_modules/ 
+apollo_server/.vscode/ 
+react-native-apollo-client/.vscode/
+react-native-apollo-client/.expo/
