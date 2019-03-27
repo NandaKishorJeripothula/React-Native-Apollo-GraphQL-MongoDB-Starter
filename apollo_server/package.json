@@ -1,0 +1,38 @@
+{
+  "name": "apollo_server_for_react_native_apollo_client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server",
+    "start": "nodemon server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "#"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "expressjs",
+    "apollo",
+    "apollo-server",
+    "graphql",
+    "react-native"
+  ],
+  "author": "nanda kishor jeripothula",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server-express": "^2.4.8",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "graphql": "^14.1.1",
+    "graphql-tools": "^4.0.4",
+    "mongoose": "^5.4.19",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  }
+}
